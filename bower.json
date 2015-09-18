@@ -1,0 +1,8 @@
+{
+  "name": "va-quickstart",
+  "main": "scss/va.scss",
+  "ignore": [],
+  "dependencies": {
+    "foundation": "5.5.2"
+  }
+}
