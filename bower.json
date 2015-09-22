@@ -9,7 +9,7 @@
   "images/design/logo/logo-alt-hover.png",
   "images/design/seal/seal.png",
   "js/app.js"
-  ]
+  ],
   "ignore": [],
   "dependencies": {
     "foundation": "5.5.2"
