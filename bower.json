@@ -1,6 +1,10 @@
 {
   "name": "va-quickstart",
   "main": "scss/va.scss",
+  "main": [
+  "scss/va.scss",
+  "html/sample.html",
+  ]
   "ignore": [],
   "dependencies": {
     "foundation": "5.5.2"
