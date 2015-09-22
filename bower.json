@@ -1,9 +1,14 @@
 {
   "name": "va-quickstart",
-  "main": "scss/va.scss",
   "main": [
+  "css/app.css",
   "scss/va.scss",
-  "html/sample.html",
+  "index.html",
+  "images/design/background/thread.png",
+  "images/design/icons/apple-touch-icon-7x72.png",
+  "images/design/logo/logo-alt-hover.png",
+  "images/design/seal/seal.png",
+  "js/app.js"
   ]
   "ignore": [],
   "dependencies": {

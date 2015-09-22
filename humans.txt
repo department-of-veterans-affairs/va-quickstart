@@ -1,8 +1,9 @@
+/* Vets.gov Quick Start */
+
 /* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
 /* zurb.com */
 /* humanstxt.org */
 
-/* SITE */
+/* Built with */
   Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Coda, Textmate, Git
+  Components: Foundation, jQuery, Modernizr, SCSS
