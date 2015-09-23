@@ -15,7 +15,7 @@
     "foundation": "5.5.2",
     "grunt": "git://github.com/gruntjs/grunt.git",
     "grunt-contrib-watch": "git://github.com/gruntjs/grunt-contrib-watch.git",
-    "grunt-sass": "git//github.com/sindresorhus/grunt-sass.git",
+    "grunt-sass": "git//github.com/sindresorhus/grunt-sass",
     "node-sass": "git://github.com/andrew/node-sass"
   }
 }
