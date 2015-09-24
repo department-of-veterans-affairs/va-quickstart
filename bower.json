@@ -8,7 +8,9 @@
   "images/design/icons/apple-touch-icon-7x72.png",
   "images/design/logo/logo-alt-hover.png",
   "images/design/seal/seal.png",
-  "js/app.js"
+  "js/app.js",
+  "grunt-contrib-watch/Gruntfile.js",
+  "grunt-sass/Gruntfile.js"
   ],
   "ignore": [],
   "dependencies": {
