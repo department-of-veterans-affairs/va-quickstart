@@ -1,17 +1,23 @@
 # va-quickstart
-Front end packaging for VA applications!
+Front end packaging for VA applications. To compile files locally using grunt, make sure both bower and Node are install / up-to-date.
 
-To install using bower, use
+1. Install using bower:
   ```html
     bower install va-quickstart
   ```
 
-To compile using grunt, use
+2. cd to the "va-quickstart" directory, then:
+  ```html
+    npm install
+  ```
+
+3. Compile local assets using grunt, run:
 ```html
   grunt
 ```
 
-To compile in a rails app, migrate the scss files and assets to the appropriate assets directory. Note: urls for things like fonts will have to be updated from:
+To run use in a rails app, simply install using bower (step 1), then move the assets to your Rails application. Note: asset urls will need to be updated. For example:
+
 ```html
   url(yourfont.otf)
 ```
@@ -22,4 +28,4 @@ to:
   font-url(yourfont.otf)
 ```
 
-in order to work with the rails asset pipeline. Additional Foundation components can be added / managed using the app.scss file.
+Additional Foundation components can be added / managed using the app.scss file.
