@@ -9,8 +9,10 @@
   "images/design/logo/logo-alt-hover.png",
   "images/design/seal/seal.png",
   "js/app.js",
-  "grunt-contrib-watch/Gruntfile.js",
-  "grunt-sass/Gruntfile.js"
+  "node_modules/grunt/Gruntfile.js",
+  "node_modules/grunt-contrib-watch/Gruntfile.js",
+  "node_modules/grunt-sass/package.json",
+  "node_modules/node-sass/package.json",
   ],
   "ignore": [],
   "dependencies": {
