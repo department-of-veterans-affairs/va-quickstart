@@ -19,13 +19,13 @@ Front end packaging for VA applications. To compile files locally using grunt, m
 To run use in a rails app, simply install using bower (step 1), then move the assets to your Rails application. Note: asset urls will need to be updated. For example:
 
 ```html
-  url(yourfont.otf)
+  url(fonts/va.eot)
 ```
 
 to:
 
 ```html
-  font-url(yourfont.otf)
+  font-url(va.eot)
 ```
 
 Additional Foundation components can be added / managed using the app.scss file.
